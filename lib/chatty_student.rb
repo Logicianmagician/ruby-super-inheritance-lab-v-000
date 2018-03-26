@@ -7,4 +7,9 @@ Dead last night? You didn't?! Oh man, it was so crazy! What, you don't want any 
 ay well let me just tell you who died..."
    end
 
+   def raise_hand
+     do 10.times super
+     end
+   end
+
 end
