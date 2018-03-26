@@ -8,8 +8,8 @@ ay well let me just tell you who died..."
    end
 
    def raise_hand
-     do 10.times super
-     end
+    10.times super
+    
    end
 
 end
